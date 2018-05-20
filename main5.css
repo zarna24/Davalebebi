@@ -1,0 +1,23 @@
+.image-wrapper{
+    margin: auto;
+    width: 900px;
+}
+.image-container {
+    float: left;
+    margin-left: 20px;
+    border: 2px solid #c2c2c2;
+}
+
+.image-container img {
+    width: 200px;
+}
+
+.image-container:hover {
+    border: 2px solid #0b0017;
+}
+
+span {
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
