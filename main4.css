@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.left-sidebar, .right-sidebar {
+    width: 25%;
+}
+
+.left-sidebar, .content, .right-sidebar {
+    float: left;
+}
+
+.content {
+    width: 50%;
+}
+
+footer {
+    height: 50px;
+    background: green;
+    float: left;
+    width: 100%;
+    color: white;
+}
